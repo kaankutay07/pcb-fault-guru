@@ -1,0 +1,6 @@
+{
+  "name": "Copy of Copy of PCB-Fault Guru",
+  "description": "An AI-powered application to inspect PCB (Printed Circuit Board) images, identify components, detect manufacturing defects, and provide a detailed analysis with visual overlays.",
+  "requestFramePermissions": [],
+  "prompt": ""
+}
